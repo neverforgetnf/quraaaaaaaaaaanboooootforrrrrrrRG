@@ -262,7 +262,7 @@ client.on("message", message => {
   }
 
   if(message.content === ".help") {
-    message.channel.send(` QuranBot
+    message.channel.send(` 
 :mosque: .quran 1   :  القران الكريم كامل بصوت الشيخ عبدالباسط عبدالصمد
 
 :mosque: .quran 2  :   القرآن الكريم كامل بصوت الشيخ المعيقلي
